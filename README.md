@@ -1,7 +1,7 @@
 - Smart City Project from team pycity
 - Created by Soumendu Kumar Pal on Rajatan IT Day Hackathon event.
 
-This is a project aimed at creating a smart city that utilizes technology and innovation to enhance the quality of life for its residents. With following "IGBCGuidelines"  [!url](https://igbc.in/igbc/redirectHtml.htm?redVal=showgreencitynosign#Benifits) this project has several components, including sustainability, smart mobility, e-governance, solid waste management, and a smart city assistant.
+This is a project aimed at creating a smart city that utilizes technology and innovation to enhance the quality of life for its residents. With following "IGBCGuidelines"  [!IGBCGuidelines](https://igbc.in/igbc/redirectHtml.htm?redVal=showgreencitynosign#Benifits) this project has several components, including sustainability, smart mobility, e-governance, solid waste management, and a smart city assistant.
 
 **Sustainability**
 Sustainability is a key component of the smart city project. The goal is to create a city that is sustainable, both environmentally and economically. This will involve implementing energy-efficient solutions such as solar panels, wind turbines, and smart grids. The city will also focus on reducing waste and promoting recycling.
