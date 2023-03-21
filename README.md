@@ -1,4 +1,4 @@
--Smart City Project
+- Smart City Project
 
 This is a project aimed at creating a smart city that utilizes technology and innovation to enhance the quality of life for its residents. The project has several components, including sustainability, smart mobility, e-governance, solid waste management, and a smart city assistant.
 
