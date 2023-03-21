@@ -1,0 +1,3 @@
+Flet>=4.0
+openai
+plotly
